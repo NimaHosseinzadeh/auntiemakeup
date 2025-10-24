@@ -45,6 +45,7 @@ body{
 .web_site{
     max-width: 1200px;
     margin: auto;
+    padding: 0 20px;
 }
 
 /* Header */
@@ -153,6 +154,7 @@ header{
     }
     .web_site{
         margin: 0 25px;
+        padding: 0 20px;
     }
     .header_center{
         display: none;
